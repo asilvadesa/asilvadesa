@@ -3,7 +3,7 @@
  <ul>
   <li>:briefcase: QA Engineer </li> 
   <li>:hearts: Back-end developement</li>
-  <li>:computer: Java, Go and Ruby</li>
+  <li>:computer: Java and Ruby</li>
   <li>:pushpin: Manaus, Amazonas</li>
  </ul>
 
